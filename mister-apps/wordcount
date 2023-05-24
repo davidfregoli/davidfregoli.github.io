@@ -1,9 +1,9 @@
 <html>
     <head>
-        <meta name="go-import" content="fregoli.dev/mister-apps/wordcount git https://github.com/davidfregoli/mister-apps/wordcount">
-        <meta http-equiv="refresh" content="0;URL='https://github.com/davidfregoli/mister-apps/wordcount'">
+        <meta name="go-import" content="fregoli.dev/mister-apps/wordcount git https://github.com/davidfregoli/mister-apps/tree/main/wordcount">
+        <meta http-equiv="refresh" content="0;URL='https://github.com/davidfregoli/mister-apps/tree/main/wordcount'">
     </head>
     <body>
-        Redirecting you to the <a href="https://github.com/davidfregoli/mister-apps/wordcount">project page</a>...
+        Redirecting you to the <a href="https://github.com/davidfregoli/mister-apps/tree/main/wordcount">project page</a>...
     </body>
 </html>
